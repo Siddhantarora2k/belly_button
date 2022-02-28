@@ -1,4 +1,5 @@
 .jumbotron {
 background-image: url(/Users/siddhantarora/Desktop/BOOTCAMP/belly_button/viruses-bacteria-fungi.jpeg);
-background-size: coveheight: 100%
+background-size: cover;
+height: 100%;
 }
